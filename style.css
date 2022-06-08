@@ -1,0 +1,15 @@
+.hero-banner {
+    background-image: url(img/headerbg.png);
+    background-repeat: no-repeat;
+    background-size: 90% 100%;
+    background-color: white;,
+    height: 500px;
+}
+h1 {
+    font-weight: 700;
+  font-size: 48px;
+  line-height: 52px;
+  display: flex;
+  color: #172b4d;
+  margin: 12px 0;
+}
