@@ -1,9 +1,6 @@
 # bootstrap-portfolio
 Re-creation of portfolio using bootstrap
 
-# bootstrap-portfolio
-Re-creation of portfolio using bootstrap
-
 
 ### Built With the following stack
 HTML CSS Linters
