@@ -1,0 +1,23 @@
+#main-section {
+  background: url(images/nav\ bg.svg);
+}
+
+footer {
+  background: url(images/contact-form-background-desktop.svg);
+}
+
+ul.icon-item li {
+  list-style-type: none;
+  display: inline-block;
+  font-size: 22px;
+  margin: 5px;
+  padding: 5px;
+  padding-top: 15px;
+  overflow: hidden;
+  background-color: whilte;
+}
+
+ul.icon-item li :hover{
+  background-color: #43b6ef;
+  
+}
