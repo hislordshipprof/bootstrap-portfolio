@@ -61,7 +61,3 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 Microverse/Bootstrap portfolio build
 
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
