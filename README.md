@@ -59,7 +59,7 @@ Show your support
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-Microverse/Figma portfolio build
+Microverse/Bootstrap portfolio build
 
 
 ## 📝 License
